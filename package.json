@@ -1,0 +1,19 @@
+{
+  "name": "apiary-authoring-environment",
+  "version": "1.0.0",
+  "description": "An environment for authoring API Blueprints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Wilhelm <ben@doublebeamdesign.com> (http://doublebeamdesign.com)",
+  "license": "ISC",
+  "dependencies": {
+    "aglio": "^2.2.0",
+    "drakov": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-aglio": "0.0.10",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^4.0.0"
+  }
+}
